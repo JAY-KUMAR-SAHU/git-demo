@@ -1,4 +1,7 @@
 # git-demo
 <br>
 .md is markdown
-learning git
+<br>
+Author - Jay Kumar Sahu
+<br>
+# learning git
